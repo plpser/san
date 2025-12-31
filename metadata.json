@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 周末去哪儿 (Weekend Go)",
+  "description": "A high-end discovery and booking platform for weekend activities, featuring AI-powered search and a beautiful masonry interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
